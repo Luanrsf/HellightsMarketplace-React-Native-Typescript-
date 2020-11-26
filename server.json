@@ -2,27 +2,45 @@
   "products": [
     {
       "id": "123",
-      "title": "Nome do produto 01",
-      "image_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/camiseta-ecommerce.jpg",
+      "title": "Camiseta Ultimate",
+      "image_url": "https://d26lpennugtm8s.cloudfront.net/stores/001/264/998/products/whatsapp-image-2020-10-08-at-21-49-45-21-45a2e45db7d2d8514b16022065471613-640-0.jpeg",
       "price": 50
     },
     {
       "id": "1234",
-      "title": "Nome do produto 02",
-      "image_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/camiseta-ecommerce.jpg",
-      "price": 60
+      "title": "Camiseta Collab II - Hounds X Hellights",
+      "image_url": "https://d26lpennugtm8s.cloudfront.net/stores/001/264/998/products/whatsapp-image-2020-10-08-at-14-35-011-9c2ffd7083ae15ae9316022071576569-640-0.jpeg",
+      "price": 50
     },
     {
       "id": "12345",
-      "title": "Nome do produto 03",
-      "image_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/camiseta-ecommerce.jpg",
-      "price": 70
+      "title": "Camiseta Crow",
+      "image_url": "https://d26lpennugtm8s.cloudfront.net/stores/001/264/998/products/whatsapp-image-2020-11-04-at-08-49-061-e9802b816154b774f716044909869149-640-0.jpeg",
+      "price": 50
     },
     {
-      "id": "123456",
-      "title": "Nome do produto 04",
-      "image_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/camiseta-ecommerce.jpg",
-      "price": 80
+      "id": "1234567",
+      "title": "Camiseta Doomed",
+      "image_url": "https://d26lpennugtm8s.cloudfront.net/stores/001/264/998/products/whatsapp-image-2020-10-27-at-10-59-521-6e4c182cbeae6670d016038200061387-640-0.jpeg",
+      "price": 50
+    },
+    {
+      "id": "12345678",
+      "title": "Shoulder Bag - Wishmaster",
+      "image_url": "https://d26lpennugtm8s.cloudfront.net/stores/001/264/998/products/bolsa1-fac0f3e08361218e7516022086958410-640-0.jpg",
+      "price": 55
+    },
+    {
+      "id": "123456789",
+      "title": "Camiseta Lilith",
+      "image_url": "https://d26lpennugtm8s.cloudfront.net/stores/001/264/998/products/whatsapp-image-2020-10-08-at-22-05-531-43f144b7a7f460c30c16022064582967-640-0.jpeg",
+      "price": 50
+    },
+    {
+      "id": "1234567891",
+      "title": "Camiseta Cold Heart",
+      "image_url": "https://d26lpennugtm8s.cloudfront.net/stores/001/264/998/products/whatsapp-image-2020-10-08-at-21-49-471-1afd268e105cdb0fca16022064110627-640-0.jpeg",
+      "price": 50
     }
   ]
 }

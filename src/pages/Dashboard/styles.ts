@@ -15,7 +15,7 @@ export const Container = styled.SafeAreaView`
 
 export const ProductContainer = styled.View`
   border-radius: 5px;
-  margin-top: 60px;
+  margin-top: 90px;
   flex: 1;
   flex-direction: row;
 `;
@@ -59,7 +59,7 @@ export const PriceContainer = styled.View`
 export const ProductPrice = styled.Text`
   font-weight: bold;
   font-size: 16px;
-  color: #e83f5b;
+  color: #8e44ad;
 `;
 
 export const ProductButton = styled.TouchableOpacity``;
